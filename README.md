@@ -1,7 +1,7 @@
 # Workflow
 
 ## Data
-We consider 2 programming language, python and java.
+We consider 2 programming languages, python and java.
 
 Each programming language has 3 playlists. There are totally 6 playlists and 360 vidoes for evaluation.
 
