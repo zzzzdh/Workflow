@@ -10,7 +10,7 @@ There is an outlier that have pretty low result. This is playlist 10. The author
 <img src="https://github.com/zzzzdh/Workflow/blob/master/image/playlist_results_IOU.png">
 
 ### bias
-The outlier is playlist 2, in which the actions are clear and simple. So it is easy to recognize.
+The outlier is playlist 2 which has higer results. In this playlist the actions are clear and simple. So it is easy to recognize.
 <img src="https://github.com/zzzzdh/Workflow/blob/master/image/playlist_results_bias.png">
 
 ### punctuation
