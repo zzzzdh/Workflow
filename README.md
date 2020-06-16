@@ -11,7 +11,7 @@ This image shows the overall result including IOU and bias.
 
 ## Playlist result
 ### IOU
-There is an outlier that have pretty low result. This is playlist 10. The author in this playlist have too much useless actions. For example, he keeps selecting many code lines again and again, which add much noise to the results. It's also pretty hard for me to label this playlist because of these useless actions.
+There is an outlier that have pretty low result. This is playlist 10. The author in this playlist have too many useless actions. For example, he keeps selecting many iirelevant code lines again and again, which add much noise to the results. It's also pretty hard for me to label this playlist because of these useless actions.
 <img src="https://github.com/zzzzdh/Workflow/blob/master/image/playlist_results_IOU.png">
 
 ### bias
