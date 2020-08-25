@@ -1,4 +1,9 @@
-# Workflow
+# SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics
+
+This is source code for SeeHow.
+
+We implement a tool for it
+[TOOL](http://seecollections.com/seehow/)
 
 ## Data
 We consider 2 programming languages, python and java.
