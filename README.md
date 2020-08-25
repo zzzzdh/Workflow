@@ -5,7 +5,7 @@ This is source code for SeeHow.
 We implement a [TOOL](http://seecollections.com/seehow/)
 
 ## Dataset
-You can download the dataset [Here](http://seecollections.com/seehow/) or process your own data using the code, please follow the instructions.
+You can download the dataset [Here](https://drive.google.com/file/d/1gT3afHGFIxfPlWK4LCq8Cp1RlhPboRgw/view?usp=sharing) or process your own data using the code, please follow the instructions.
 
 ## Data processing
 Note: You need to change your own path for each process.
