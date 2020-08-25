@@ -2,8 +2,7 @@
 
 This is source code for SeeHow.
 
-We implement a tool for it
-[TOOL](http://seecollections.com/seehow/)
+We implement a [TOOL](http://seecollections.com/seehow/)
 
 ## Dataset
 You can download the dataset [Here](http://seecollections.com/seehow/) or process your own data using the code, please follow the instructions.
