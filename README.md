@@ -16,3 +16,11 @@ Note: You need to change your own path for each process.
 4. Text detection by [EAST](https://github.com/argman/EAST) and text recognition by [CRNN](https://github.com/bgshih/crnn). You can refer to the two methods to process your own data.
 5. Extrac workflow by `python3 extract_workflow.py`. We store the results in mysql database. You can build a database to store the results or use any other forms.
 
+## Additional process
+We also consider captions in this work, which is used to generate text summary to describe the coding steps. Please refer to our [TOOL](http://seecollections.com/seehow/) for the results.
+
+In order to obtain the text summary, you need to:
+1. Parse vtt file, which has been done in `clip_video_ffmpeg.py`
+2. Punctuation restoration by `segment_punctuation.py`, as the captions do not have any punctuation.
+3. Caption group by `next_sentence.py`. This step groups related sentences together.
+4. Caption summarization by `summarize.py`. This step summarize long sentences to short sentences. Please refer to [This](https://github.com/nlpyang/PreSumm) method.
