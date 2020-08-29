@@ -45,3 +45,39 @@ We provide the high resolution figures for the paper.
 |:--:| 
 | *Fig. 4: An example of processing pop-up assisted code editing* |
 
+| ![](/images/scroll.jpg) | 
+|:--:| 
+| *Fig. 5: An example of scroll-content in between coding actions* |
+
+| ![](/images/textbox.jpg) | 
+|:--:| 
+| *Fig. 6: Example of text line detection* |
+
+| ![](/images/fragment.jpg) | 
+|:--:| 
+| *Fig. 7: Illustration of coding step identification* |
+
+| ![](/images/box.jpg) | 
+|:--:| 
+| *Fig. 8: An example of locating active text line(s)* |
+
+| ![](/images/frag_len_all.jpg) | 
+|:--:| 
+| *Fig. 9: Distribution of coding-step length and total duration* |
+
+| ![](/images/offset.jpg) | 
+|:--:| 
+| *Fig. 10: Coding-step distribution at different IoU and timeoffset thresholds* |
+
+| ![](/images/iou.jpg) | 
+|:--:| 
+| *Fig. 11: Per-video F1 distribution at different IoU and timeoffset thresholds* |
+
+| ![](/images/playlist.jpg) | 
+|:--:| 
+| *Fig. 12: Distribution of videos in different F1 ranges for each playlist* |
+
+| ![](/images/usefulness.jpg) | 
+|:--:| 
+| *Fig. 13: Correctness ratings by human evaluation* |
+
