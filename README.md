@@ -28,10 +28,20 @@ In order to obtain the text summary, you need to:
 
 ## Figures in paper
 We provide the high resolution figures for the paper.
-![](/images/actionnet.jpg)
-Fig. 1: An Example of Programming Workflow
+
+| ![](/images/example.jpg) | 
+|:--:| 
+| *Fig. 1: An Example of Programming Workflow* |
+
+| ![](/images/step.jpg) | 
+|:--:| 
+| *Fig. 2: Main Steps of Our Approach* |
 
 | ![](/images/actionnet.jpg) | 
 |:--:| 
-| *Fig. 1: An Example of Programming Workflow* |
+| *Fig. 3: Illustration of how ActionNet works* |
+
+| ![](/images/popup.jpg) | 
+|:--:| 
+| *Fig. 4: An example of processing pop-up assisted code editing* |
 
