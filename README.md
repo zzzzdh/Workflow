@@ -29,3 +29,4 @@ In order to obtain the text summary, you need to:
 ## Figures in paper
 We provide the high resolution figures for our paper.
 ![actionnet](/images/actionnet.jpg)
+*Fig. 1: An Example of Programming Workflow*
