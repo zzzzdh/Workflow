@@ -31,3 +31,7 @@ We provide the high resolution figures for the paper.
 ![](/images/actionnet.jpg)
 Fig. 1: An Example of Programming Workflow
 
+| ![](/images/actionnet.jpg) | 
+|:--:| 
+| *Fig. 1: An Example of Programming Workflow* |
+
