@@ -28,6 +28,6 @@ In order to obtain the text summary, you need to:
 
 ## Figures in paper
 We provide the high resolution figures for the paper.
-![](/images/actionnet.jpg)
-*Fig. 1: An Example of Programming Workflow*
+<div align="center">![](/images/actionnet.jpg)
+  Fig. 1: An Example of Programming Workflow </div>
 
