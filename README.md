@@ -7,6 +7,8 @@ We implement a [TOOL](http://seecollections.com/seehow/)
 ## Dataset
 You can download the dataset [Here](https://drive.google.com/file/d/1gT3afHGFIxfPlWK4LCq8Cp1RlhPboRgw/view?usp=sharing) or process your own data using the code, please follow the instructions.
 
+If you use our dataset, you can run `python3 extract_workflow.py` directly to extract workflow.
+
 ## Data processing
 Note: You need to change your own path for each process.
 1. Decode videos to frames by `python3 clip_video_ffmpeg.py`. This step uses ffmpeg. You can install it by `apt-get install ffmpeg`. We also process captions in this step. But it's an option for you.
@@ -23,3 +25,7 @@ In order to obtain the text summary, you need to:
 2. Punctuation restoration by `segment_punctuation.py`, as the captions do not have any punctuation.
 3. Caption group by `next_sentence.py`. This step groups related sentences together.
 4. Caption summarization by `summarize.py`. This step summarize long sentences to short sentences. Please refer to [This](https://github.com/nlpyang/PreSumm) method.
+
+## Figures in paper
+We provide the high resolution figures for our paper.
+![actionnet](/images/actionnet.jpg)
